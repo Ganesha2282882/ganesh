@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background-color: red;
+  color: yellow;
+}
+
+textarea {
+  background-color: red;
+  color: yellow;
+}
+
+img {
+  height: 256px;
+  width: 256px;
+}
+
+#nav-bar {
+  background-color: darkred;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+a {
+  color: yellow;
+}
